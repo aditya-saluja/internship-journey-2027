@@ -97,29 +97,62 @@
 # - The third sentence, "this is great thanks very much", has 6 words in total.
 # Thus, the maximum number of words in a single sentence comes from the third sentence, which has 6 words.
 
-def most_words(sentences):
+# def most_words(sentences):
     
-    maximum = 0
+#     maximum = 0
 
-    for sentence in sentences:
+#     for sentence in sentences:
        
-       words = sentence.split()
+#        words = sentence.split()
 
-       if len(words) > maximum:
-           maximum = len(words)
+#        if len(words) > maximum:
+#            maximum = len(words)
            
            
-    return maximum
+#     return maximum
     
-sentences = ["alice and bob love leetcode", 
-             "i think so too",
-             "this is great thanks very muc"]
+# sentences = ["alice and bob love leetcode", 
+#              "i think so too",
+#              "this is great thanks very muc"]
 
-print(most_words(sentences))
+# print(most_words(sentences))
 
 
 
-        
+# numbers = ["--x", "x++","x++"]
+
+
+# def addition (numbers = ["--x", "x++","x++"]):
+       
+
+#        x = 0
+#       #  numbers = ["--x", "x++","x++"]
+#        for number in numbers:
+#               if number =="--x":
+#                      x = x-1
+                     
+#               if number == "x++":
+#                   x = x+1
+                  
+             
+                                   
+                                   
+#        return (x)
+
+
+# print(addition( ["--x", "x++","x++"]))
+             
+
+# Input: n = 7
+# Output: 21
+# Explanation: Numbers in the range [1, 7] that are divisible by 3, 5, or 7 are 3, 5, 6, 7. The sum of these numbers is 21.
+
+
+n = 7
+
+for i in range():
+
+
         
 
 
