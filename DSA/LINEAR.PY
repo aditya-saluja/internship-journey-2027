@@ -221,3 +221,14 @@
 
 # DUPLICATES
 
+
+word = "Programming"
+
+
+print (word[:7])
+print (word[3:7])
+print (word[7:11])
+print (word[:3])
+print (word[:])
+
+
