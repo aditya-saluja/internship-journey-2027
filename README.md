@@ -15,6 +15,7 @@ My journey to become a data analyst and cracking and internship
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0283-move-zeroes) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,8 @@ My journey to become a data analyst and cracking and internship
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0867-transpose-matrix) |
+## String
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
