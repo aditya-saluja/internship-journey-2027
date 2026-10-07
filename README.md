@@ -20,6 +20,7 @@ My journey to become a data analyst and cracking and internship
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -28,6 +29,7 @@ My journey to become a data analyst and cracking and internship
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
@@ -48,5 +50,6 @@ My journey to become a data analyst and cracking and internship
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
