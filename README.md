@@ -13,6 +13,7 @@ My journey to become a data analyst and cracking and internship
 | [0867-transpose-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1572-matrix-diagonal-sum](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ My journey to become a data analyst and cracking and internship
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
