@@ -222,13 +222,18 @@
 # DUPLICATES
 
 
-word = "Programming"
+text = "  Python is Fun Python  "
+
+print(text.lower())
+print(text.strip())
+print(text.replace("fun", "awsome"))
+print(text.count("python"))
+print(text.split())
 
 
-print (word[:7])
-print (word[3:7])
-print (word[7:11])
-print (word[:3])
-print (word[:])
+
+hi =["Data", "Science", "Roadmap"]
+print(""join.hi)
+
 
 
