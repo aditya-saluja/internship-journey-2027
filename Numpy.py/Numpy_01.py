@@ -60,6 +60,25 @@ import numpy as np
 # print(result)
 
 
-# 
+# BASIC STATS
+
+# sales = np.array([
+#     [120, 450, 280], 
+#                   [600, 350, 90]]
+#                   )
+
+# print (np.min(sales))
+# print (np.max(sales))
+# print (np.std(sales))
+# print (np.sum(sales))
+# print (np.median(sales))
+
+
+# Axis
+
+# print (np.sum(sales, axis = 0))
+# print (np.sum(sales, axis = 1))
+
+
 
 
