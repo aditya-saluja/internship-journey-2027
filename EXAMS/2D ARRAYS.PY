@@ -120,15 +120,15 @@ print(result)
 # ADDITION OF DIAGNOL
 
 
-rows = len(nums)
-cols = len(nums[0])
+# rows = len(nums)
+# cols = len(nums[0])
 
-sum_diagonal = 0
+# sum_diagonal = 0
 
-for i in range(rows):
-    sum_diagonal += nums[i][i]              # main diagonal
-    sum_diagonal += nums[i][cols - 1 - i]  # secondary diagonal
+# for i in range(rows):
+#     sum_diagonal += nums[i][i]              # main diagonal
+#     sum_diagonal += nums[i][cols - 1 - i]  # secondary diagonal
 
-print(sum_diagonal)
+# print(sum_diagonal)
 
 
