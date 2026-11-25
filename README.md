@@ -6,6 +6,7 @@ My journey to become a data analyst and cracking and internship
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0414-third-maximum-number) |
@@ -76,5 +77,6 @@ My journey to become a data analyst and cracking and internship
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
