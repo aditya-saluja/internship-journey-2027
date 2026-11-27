@@ -79,4 +79,12 @@ My journey to become a data analyst and cracking and internship
 | ------- |
 | [0035-search-insert-position](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0704-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
