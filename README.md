@@ -24,6 +24,7 @@ My journey to become a data analyst and cracking and internship
 | [0283-move-zeroes](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ My journey to become a data analyst and cracking and internship
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
