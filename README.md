@@ -21,6 +21,7 @@ My journey to become a data analyst and cracking and internship
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0832-flipping-an-image) |
@@ -85,6 +86,7 @@ My journey to become a data analyst and cracking and internship
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -92,4 +94,9 @@ My journey to become a data analyst and cracking and internship
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
