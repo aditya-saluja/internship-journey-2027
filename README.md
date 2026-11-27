@@ -21,6 +21,7 @@ My journey to become a data analyst and cracking and internship
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -29,6 +30,7 @@ My journey to become a data analyst and cracking and internship
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -84,6 +86,7 @@ My journey to become a data analyst and cracking and internship
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0234-palindrome-linked-list) |
@@ -99,4 +102,8 @@ My journey to become a data analyst and cracking and internship
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0234-palindrome-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
