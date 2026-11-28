@@ -114,6 +114,7 @@ My journey to become a data analyst and cracking and internship
 | [0520-detect-capital](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0696-count-binary-substrings) |
+| [0824-goat-latin](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0824-goat-latin) |
 ## Math
 |  |
 | ------- |
