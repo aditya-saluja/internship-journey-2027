@@ -20,6 +20,7 @@ My journey to become a data analyst and cracking and internship
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1572-matrix-diagonal-sum](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ My journey to become a data analyst and cracking and internship
 | [0867-transpose-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0883-projection-area-of-3d-shapes) |
 | [1572-matrix-diagonal-sum](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Simulation
 |  |
 | ------- |
