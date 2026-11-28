@@ -7,6 +7,7 @@ My journey to become a data analyst and cracking and internship
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0283-move-zeroes) |
@@ -43,6 +44,7 @@ My journey to become a data analyst and cracking and internship
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0169-majority-element) |
@@ -68,6 +70,7 @@ My journey to become a data analyst and cracking and internship
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0661-image-smoother) |
