@@ -6,6 +6,7 @@ My journey to become a data analyst and cracking and internship
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0054-spiral-matrix) |
@@ -98,6 +99,7 @@ My journey to become a data analyst and cracking and internship
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -158,4 +160,8 @@ My journey to become a data analyst and cracking and internship
 |  |
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0883-projection-area-of-3d-shapes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
