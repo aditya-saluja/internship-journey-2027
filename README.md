@@ -7,6 +7,7 @@ My journey to become a data analyst and cracking and internship
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0074-search-a-2d-matrix) |
@@ -71,6 +72,7 @@ My journey to become a data analyst and cracking and internship
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0074-search-a-2d-matrix) |
@@ -102,6 +104,7 @@ My journey to become a data analyst and cracking and internship
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0048-rotate-image) |
 | [0883-projection-area-of-3d-shapes](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0883-projection-area-of-3d-shapes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
