@@ -58,6 +58,7 @@ My journey to become a data analyst and cracking and internship
 | [0169-majority-element](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0242-valid-anagram) |
+| [0859-buddy-strings](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0859-buddy-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,6 +119,7 @@ My journey to become a data analyst and cracking and internship
 | [0696-count-binary-substrings](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0696-count-binary-substrings) |
 | [0824-goat-latin](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0844-backspace-string-compare) |
+| [0859-buddy-strings](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0859-buddy-strings) |
 ## Math
 |  |
 | ------- |
