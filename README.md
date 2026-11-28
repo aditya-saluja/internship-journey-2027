@@ -47,6 +47,7 @@ My journey to become a data analyst and cracking and internship
 | [0557-reverse-words-in-a-string-iii](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ My journey to become a data analyst and cracking and internship
 | [0054-spiral-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1260-shift-2d-grid) |
 ## String
@@ -115,6 +117,7 @@ My journey to become a data analyst and cracking and internship
 | [0557-reverse-words-in-a-string-iii](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0696-count-binary-substrings) |
 | [0824-goat-latin](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0824-goat-latin) |
+| [0844-backspace-string-compare](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0844-backspace-string-compare) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +167,7 @@ My journey to become a data analyst and cracking and internship
 | ------- |
 | [0143-reorder-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0844-backspace-string-compare) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
