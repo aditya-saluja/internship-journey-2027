@@ -7,6 +7,7 @@ My journey to become a data analyst and cracking and internship
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0169-majority-element) |
@@ -70,6 +71,7 @@ My journey to become a data analyst and cracking and internship
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0566-reshape-the-matrix) |
@@ -86,6 +88,7 @@ My journey to become a data analyst and cracking and internship
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0867-transpose-matrix) |
