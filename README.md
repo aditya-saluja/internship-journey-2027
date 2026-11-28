@@ -110,6 +110,7 @@ My journey to become a data analyst and cracking and internship
 | [0242-valid-anagram](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Math
 |  |
