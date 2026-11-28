@@ -43,6 +43,7 @@ My journey to become a data analyst and cracking and internship
 | [0234-palindrome-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0876-middle-of-the-linked-list) |
@@ -108,6 +109,7 @@ My journey to become a data analyst and cracking and internship
 | [0205-isomorphic-strings](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Math
 |  |
