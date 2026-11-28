@@ -13,6 +13,7 @@ My journey to become a data analyst and cracking and internship
 | [0566-reshape-the-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0704-binary-search) |
+| [0766-toeplitz-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -63,6 +64,7 @@ My journey to become a data analyst and cracking and internship
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0661-image-smoother) |
+| [0766-toeplitz-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1572-matrix-diagonal-sum) |
