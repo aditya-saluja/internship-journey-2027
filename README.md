@@ -19,6 +19,7 @@ My journey to become a data analyst and cracking and internship
 | [0883-projection-area-of-3d-shapes](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0883-projection-area-of-3d-shapes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -71,6 +72,7 @@ My journey to become a data analyst and cracking and internship
 | [0832-flipping-an-image](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0883-projection-area-of-3d-shapes) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -100,6 +102,7 @@ My journey to become a data analyst and cracking and internship
 | ------- |
 | [0035-search-insert-position](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Linked List
 |  |
 | ------- |
