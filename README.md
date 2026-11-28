@@ -7,6 +7,7 @@ My journey to become a data analyst and cracking and internship
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0414-third-maximum-number) |
@@ -67,6 +68,7 @@ My journey to become a data analyst and cracking and internship
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0766-toeplitz-matrix) |
@@ -104,6 +106,7 @@ My journey to become a data analyst and cracking and internship
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/aditya-saluja/internship-journey-2027/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aditya-saluja/internship-journey-2027/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Linked List
